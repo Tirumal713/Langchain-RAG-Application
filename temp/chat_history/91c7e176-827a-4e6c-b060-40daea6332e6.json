@@ -1,0 +1,71 @@
+{
+  "chat_id": "91c7e176-827a-4e6c-b060-40daea6332e6",
+  "title": "Recruitments & Selection Polic...",
+  "timestamp": "2025-04-17T10:56:41.639057",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Recruitments & Selection Policy"
+    },
+    {
+      "role": "assistant",
+      "content": "The provided context outlines the recruitment and selection policy of IIA. According to the policy, the HR department is responsible for assessing the relative importance of each skill and qualification for a position, preparing job descriptions, and advertising vacancies. \n\nThe selection process involves a written exam with three parts: aptitude test, general knowledge, and basic intelligence test, followed by a technical skill test. Candidates who meet the benchmark for selection criteria are interviewed for the job. The test and interview are conducted by the executive head and department head to assess the selected candidates' job suitability.\n\nIf you have any specific questions about the recruitment and selection policy, I'll be happy to help based on the provided context."
+    },
+    {
+      "role": "user",
+      "content": "Uniform / Dress Code Policy"
+    },
+    {
+      "role": "assistant",
+      "content": "According to the provided context, the Uniform / Dress Code Policy of IIA states that the organization may decide the uniform for all levels of its employees. Separate codes of dress should be provided for summer and winter seasons. The pattern, color, and code of uniform will be different for Executive staff compared to Non-Executive staff.\n\nIn normal conditions, employees are expected to wear Shirt Trouser with other accessories of prescribed color and design. However, female employees with serious health issues may be allowed to wear Saree and Blouse or Salwar Kurta for convenience, provided they are of the prescribed color and design.\n\nIIA will provide dress to all its employees as follows:\n- 2 Sets of Trouser + Shirt once a year\n- Formal Shoes once a year\n- One Blazer once in two years for Executives and One Jacket for Non-Executives\n\nThe management has the right to discontinue or hold the uniform policy only if a financial limitation arises."
+    },
+    {
+      "role": "user",
+      "content": "Employee Grievance Redressal System"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the provided context, I cannot find any specific information about the Employee Grievance Redressal System. The context primarily discusses the Gender Policy, Sexual Harassment Policy, and Grievance Procedure related to sexual harassment. It does not provide a comprehensive overview of the Employee Grievance Redressal System. Therefore, I cannot answer your question confidently based on the given context."
+    },
+    {
+      "role": "user",
+      "content": "good morning"
+    },
+    {
+      "role": "assistant",
+      "content": "Good morning. I'm a document assistant, and I'm here to help you with any questions or concerns you may have based on the provided context. How can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "hello give me country names"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Based on the provided context, the country names mentioned are:\n\n1. Canada\n2. Germany\n3. France\n4. Mexico\n5. United States of America\n6. India \n\nThese country names are found in the document context provided. If you have any specific questions or need further information, I'll be happy to help."
+    },
+    {
+      "role": "user",
+      "content": "hello give me product names"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello. Based on the provided context, the product names mentioned are:\n\n1. Customized Credit Cards\n2. Lithium-ion battery\n3. Open Cells\n4. Mobile phones\n5. EVs (Electric Vehicles)\n6. Wet Blue leather \n\nThese product names are found in the document context provided. If you have any specific questions or need further information, I'll be happy to help."
+    },
+    {
+      "role": "user",
+      "content": "give me list of product names"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the provided context, the product names mentioned are:\n\n1. Customized Credit Cards\n2. Lithium-ion battery\n3. Open Cells\n4. Mobile phones\n5. EVs (Electric Vehicles)\n6. Wet Blue leather\n\nThese product names are found in the document context provided. If you have any specific questions or need further information, I'll be happy to help."
+    },
+    {
+      "role": "user",
+      "content": "give me list of product"
+    },
+    {
+      "role": "assistant",
+      "content": "Based on the provided context, the product names mentioned are:\n\n1. Carretera\n2. Montana\n3. Paseo\n4. Velo\n5. VTT\n6. Amarilla\n\nThese product names are found in the document context provided, specifically in the table data. If you have any specific questions or need further information, I'll be happy to help."
+    }
+  ]
+}
